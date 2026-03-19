@@ -1,21 +1,9 @@
 title: "lowerlee's Notes"
 description: "Personal notes, ideas, and references"
 theme: minima
-
-# Jekyll settings
 markdown: kramdown
 highlighter: rouge
-
-# Navigation
-header_pages:
-  - index.md
-
-  # Minima theme settings
-  minima:
-    skin: dark
-
-    # Exclude from processing
-    exclude:
-      - README.md
-        - Gemfile
-          - Gemfile.lock
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
