@@ -3,6 +3,8 @@ description: "Personal notes, ideas, and references"
 theme: minima
 markdown: kramdown
 highlighter: rouge
+url: "https://turtle.supply"
+baseurl: ""
 exclude:
   - README.md
   - Gemfile
